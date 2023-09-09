@@ -156,7 +156,7 @@ const Data = [
     }, {
         id: 22,
         title: "Rajgir Zoo Safari",
-        img: "https://bindassbihari.com/wp-content/uploads/2022/02/onroad007-20220218-0001.webp",
+        img: "https://feeds.abplive.com/onecms/images/uploaded-images/2022/02/16/7c109bbd4a4c274c2d1fab2f8244f2cb_original.jpg",
         category: "Bihar",
         description: "Rajgir Zoo Safari :- लंबे समय के बाद अब Zoo Safari लोगो के लिए खोल दिया गया हैं, अब राजगीर में अन्य जगहों पर घूमने के साथ साथ लोग नेचर सफारी का भी आनंद उठा सकेंगे । बिहार के मुख्यमंत्री नीतीश कुमार ने राज्य वासियों को बुधवार को एक बड़ी सौगात दी है, सीएम ने नालंदा जिला के राजगीर में बने जू सफारी का उद्घाटन किया,जिसके बाद इसे आम लोगों के लिए खोल दिया हैं,होली के पहले ये सरकार के द्वारा ये तोहफा पाकर लोग काफी खुश हैं।",
     },
