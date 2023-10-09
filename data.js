@@ -364,7 +364,7 @@ const all = [
     }, {
         id: 24,
         title: "Chiken Biryani",
-        img: "https://www.cookwithnabeela.com/wp-content/uploads/2022/10/18.ChickenBiryani2.jpg",
+        img: "https://www.mydelicious-recipes.com/home/images/423_1080_1080/mydelicious-recipes-chicken-biryani",
         category: "Food",
         description: "I know there are SO many chicken biryani recipes out there and you are probably getting tired of looking for one recipe that you can stick to.However, look no further you have found THE chicken biryani recipe of the century. The fragrant aromas, the vibrant colours, and the fluffy rice are all bound together by the zing of heat and spices. What more could you ever want?!",
     }, {
